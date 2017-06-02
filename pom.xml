@@ -6,7 +6,7 @@
     <artifactId>myPlugin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <organization>
-        <name>AUG Chennai</name>
+        <name>AUG</name>
         <url>http://developer.atlassian.com/</url>
     </organization>
     <name>myPlugin</name>
@@ -149,7 +149,7 @@
     </build>
     <properties>
         <jira.version>7.2.2</jira.version>
-        <amps.version>6.2.8</amps.version>
+        <amps.version>6.2.11</amps.version>
         <plugin.testrunner.version>1.2.3</plugin.testrunner.version>
         <atlassian.spring.scanner.version>1.2.13</atlassian.spring.scanner.version>
         <!-- This key is used to keep the consistency between the key in atlassian-plugin.xml and the key to generate bundle. -->
