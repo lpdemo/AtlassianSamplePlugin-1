@@ -1,7 +1,4 @@
 #Added comment by jp
 #For Demo purpose
-
-
 This is a dummy file
 dummy line
-
