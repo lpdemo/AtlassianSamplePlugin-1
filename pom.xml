@@ -6,7 +6,7 @@
     <artifactId>myPlugin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <organization>
-        <name>Rakuten FDO Training</name>
+        <name>LP FDO Training</name>
         <url>http://developer.atlassian.com/</url>
     </organization>
     <name>myPlugin</name>
@@ -144,6 +144,13 @@
                     </scannedDependencies>
                     <verbose>false</verbose>
                 </configuration>
+            </plugin>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                        <configuration>
+                                <source>1.7</source>
+                                <target>1.7</target>
+                        </configuration>
             </plugin>
         </plugins>
     </build>
