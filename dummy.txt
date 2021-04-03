@@ -2,8 +2,6 @@
 #For Demo purpose
 This is a dummy file
 
-
-
 dummy line
 
 This is for demo purpose
