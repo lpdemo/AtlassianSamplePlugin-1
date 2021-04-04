@@ -6,4 +6,3 @@ dummy line
 
 This is for demo purpose
 
-This is demo
